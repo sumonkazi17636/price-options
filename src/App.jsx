@@ -2,6 +2,7 @@
 import './App.css'
 
 import Navbar from './components/Navbar/Navbar'
+import Phones from './components/Phones/Phones'
 import PriceOptions from './components/PriceOptions/PriceOptions'
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
     <>
       <Navbar></Navbar>
       <PriceOptions></PriceOptions>
+      <Phones></Phones>
       
 
 
